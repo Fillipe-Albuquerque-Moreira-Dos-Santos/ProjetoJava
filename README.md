@@ -1,5 +1,5 @@
-# CRUD com Java orientado a objetos, e MySQL utilizando MVC e design patterns
-
+# CRUD com Java orientado a objetos
+ ## Mysql MVC e design patterns
 ![preview img](/preview.png)
 
 
