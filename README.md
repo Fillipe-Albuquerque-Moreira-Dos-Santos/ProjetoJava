@@ -18,7 +18,7 @@ Agora tudo pronto, basta usar e ver o sistema funcionando
 
 ## Visão Geral
 
-Sistema para cadastro de aeronaves, permite que o admin usuário crie e edite as aeronaves. 
+Sistema para cadastro de aeronaves, permite que o admin do sistema crie e edite as aeronaves. 
 
 Foi utilizado uma estrutura de base de dados simples com a tabela de usuarios do proprio MySql, 
 uma tabela para persistir e armazenar os dados . Estou disponibilizando o.sql para agilizar o processo
