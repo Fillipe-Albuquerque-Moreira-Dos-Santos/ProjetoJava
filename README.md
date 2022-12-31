@@ -24,3 +24,9 @@ Foi utilizado uma estrutura de base de dados simples com a tabela de usuarios do
 uma tabela para persistir e armazenar os dados . Estou disponibilizando o.sql para agilizar o processo
 
 Qualquer duvida fico a disposição no email "fillipefff@gmail.com"
+
+## Foto das telas
+
+![preview img](/preview1.png)
+
+
