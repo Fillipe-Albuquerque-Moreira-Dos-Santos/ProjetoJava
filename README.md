@@ -23,7 +23,7 @@ Sistema para cadastro de aeronaves, permite que o admin do sistema crie e edite 
 Foi utilizado uma estrutura de base de dados simples com a tabela de usuarios do proprio MySql, 
 uma tabela para persistir e armazenar os dados . Estou disponibilizando o.sql para agilizar o processo
 
-Qualquer duvida fico a disposição no email "fillipefff@gmail.com"
+O sistema está 100% porém qualquer duvida fico a disposição no email "fillipefff@gmail.com"
 
 ## Foto das telas
 
