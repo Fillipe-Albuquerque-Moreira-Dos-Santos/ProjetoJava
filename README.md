@@ -29,4 +29,16 @@ Qualquer duvida fico a disposição no email "fillipefff@gmail.com"
 
 ![preview img](/preview1.png)
 
+![preview img](/preview2.png)
+
+![preview img](/preview3.png)
+
+![preview img](/preview4.png)
+
+![preview img](/preview5.png)
+
+![preview img](/previe6.png)
+
+![preview img](/preview7.png)
+
 
