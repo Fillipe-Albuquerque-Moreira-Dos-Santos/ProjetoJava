@@ -4,7 +4,6 @@
 
 
 # Instalação do projeto 
-# Eclipse
 
 #### No terminal siga a lista de comandos abaixo:
 
