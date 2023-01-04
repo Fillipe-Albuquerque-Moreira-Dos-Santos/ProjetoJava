@@ -5,7 +5,7 @@
 
 # Instalação do projeto 
 
-#### Siga o passo a passo abaixo:
+#### Siga o passo a passo abaixo
 
 - git clone https://github.com/Fillipe-Albuquerque-Moreira-Dos-Santos/ProjetoJava
 - instalar o eclipse IDE
