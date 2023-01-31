@@ -13,7 +13,7 @@
 - Adicionar o banco de dados que está disponível no projeto
 - senha para acessar: senai 1234
 
-Agora tudo pronto, basta usar e ver o sistema funcionando
+Agora tudo pronto, agora é só testar.
 
 
 ## Visão Geral
